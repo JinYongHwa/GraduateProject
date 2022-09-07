@@ -4,5 +4,5 @@
 
 
 ### Docker
-> [Docker란?](https://aws.amazon.com/ko/docker/)
-> Docker https://www.docker.com/
+- [Docker란?](https://aws.amazon.com/ko/docker/)
+- Docker https://www.docker.com/
